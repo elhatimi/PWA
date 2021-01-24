@@ -1,7 +1,7 @@
 # PWA
 Page web progressive
-                   https://jeanritter.alwaysdata.net/SynChat/index.php /<br/>
-                   https://hajar.alwaysdata.net/SynChat /<br/>
+                               https://jeanritter.alwaysdata.net/SynChat/index.php /<br/>
+                               https://hajar.alwaysdata.net/SynChat /<br/>
 Projet de Groupe Master SYNVA2: Progressive Web Application | Messagerie (PWA_Msg)
        <ul>
 <li>Hajar El HATIMI | elhatimi </li>
